@@ -1,0 +1,5 @@
+api-key: "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"
+model: "gpt-3.5-turbo"
+temperature: 1
+#max_tokens: 500 
+markdown: true
